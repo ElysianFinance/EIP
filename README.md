@@ -1,10 +1,10 @@
-# EIPs [Discord](https://discord.gg/gNFfBfV4he) [Twitter](https://twitter.com/Elysian_Finance) [Telegram](https://t.me/ElysianFinance)
+# EIP [Discord](https://discord.gg/gNFfBfV4he) [Twitter](https://twitter.com/Elysian_Finance) [Telegram](https://t.me/ElysianFinance)
 
-Elysian Improvement Proposals (EIPs) describe standards for the Elysian platform, including core protocol specifications, client APIs, and contract standards.
+Elysian Improvement Proposals (EIP) describe standards for the Elysian platform, including core protocol specifications, client APIs, and contract standards.
 
 # Contributing
 
-1.  Review [EIP-1](https://github.com/ElysianFinance/EIP/blob/master/content/eips/eip-1.md).
+1.  Review [EIP-1](https://github.com/ElysianFinance/EIP/blob/master/content/eip/eip-1.md).
 2.  Fork the repository by clicking "Fork" in the top right.
 3.  Add your EIP to your fork of the repository. There is a [template EIP here](eip-x.md).
 4.  Submit a Pull Request to Elysian's [EIPs repository](https://github.com/elysianfinance/EIP).
