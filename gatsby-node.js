@@ -102,11 +102,11 @@ exports.createSchemaCustomization = ({ actions, schema }) => {
     type MarkdownRemarkFrontmatter implements Node {
       eip: Int
       eccp: Int
-      title: String!
+      title: String
       type: String
       network: String
-      status: String!
-      author: String!
+      status: String
+      author: String
       implementor: String
       proposal: String
       release: String
