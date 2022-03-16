@@ -100,8 +100,8 @@ exports.createSchemaCustomization = ({ actions, schema }) => {
   const typeDefs = [
     `
     type MarkdownRemarkFrontmatter implements Node {
-      eip: Int!
-      eccp: Int!
+      eip: Int
+      eccp: Int
       title: String!
       type: String
       network: String
