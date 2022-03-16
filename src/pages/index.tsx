@@ -30,23 +30,23 @@ const IndexPage = () => (
     <h2>Contributing</h2>
     <ol>
       <li>
-        Review <a href="/eips/eip-1">EIP-1</a>.
+        Review <a href="/eip/eip-1">EIP-1</a>.
       </li>
       <li>
         Fork the repository by visiting the EIPs{' '}
-        <a href="https://github.com/elysianDAO/EIPs">repo</a> and pressing
+        <a href="https://github.com/elysianfinance/EIP">repo</a> and pressing
         "Fork" in the top right.
       </li>
       <li>
         Add your EIP to your fork of the repository. There is a{' '}
-        <a href="https://github.com/elysianDAO/EIPs/blob/master/eip-x.md">
+        <a href="https://github.com/elysianfinance/EIP/blob/master/eip-x.md">
           template EIP here
         </a>
         .
       </li>
       <li>
         Submit a Pull Request to Elysian's{' '}
-        <a href="https://github.com/synthetixio/EIPs">EIPs repository</a>.
+        <a href="https://github.com/elysianfinance/EIP">EIPs repository</a>.
       </li>
     </ol>
 
@@ -59,7 +59,7 @@ const IndexPage = () => (
     </p>
     <p>
       If your EIP requires images, the image files should be included in a
-      subdirectory of the `assets` folder for that EIP as follow: <code>eips/assets/eip-X</code> (for eip <b>X</b>). When linking to an
+      subdirectory of the `assets` folder for that EIP as follow: <code>eip/assets/eip-X</code> (for eip <b>X</b>). When linking to an
       image in the EIP, use relative links such as{' '}
       <code>../assets/eip-X/image.png</code>.
     </p>
