@@ -10,14 +10,14 @@ const IndexPage = () => (
     <h1 className="page-heading">
       Elysian Improvement Proposals{' '}
       <a
-        href="https://discordapp.com/channels/413890591840272394/"
+        href="https://discordapp.com/channels/941410239675265074/"
         rel="nofollow"
       >
         <img
           className="max-w-full"
-          src="https://camo.githubusercontent.com/294a3116521e16f9164255dd2d386b24767e2610/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3431333839303539313834303237323339342e7376673f636f6c6f723d373638414434266c6162656c3d646973636f7264266c6f676f3d6874747073253341253246253246646973636f72646170702e636f6d25324661737365747325324638633937303162393861643433373262353866313366643966363566393636652e737667"
+          src="https://img.shields.io/discord/941410239675265074.svg?color=768AD4&amp;label=discord"
           alt="Discord"
-          data-canonical-src="https://img.shields.io/discord/413890591840272394.svg?color=768AD4&amp;label=discord&amp;logo=https%3A%2F%2Fdiscordapp.com%2Fassets%2F8c9701b98ad4372b58f13fd9f65f966e.svg"
+          data-canonical-src="https://img.shields.io/discord/941410239675265074.svg?color=768AD4&amp;label=discord"
         />
       </a>
     </h1>
@@ -80,7 +80,7 @@ const IndexPage = () => (
       they can either move it to a vote or send it back to{' '}
       <code>Feasability</code>. A vote is conducted within the{' '}
       <code>elysiandao.eth</code> snapshot space connected on the
-      <a href="https://staking.elysian.finance/"> staking </a> dApp. If a vote by
+      upcoming staking dApp. If a vote by
       the Elysian Council reaches a super majority, the EIP is moved to{' '}
       <code>Approved</code>, otherwise it is <code>Rejected</code>.
     </p>
