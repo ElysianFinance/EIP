@@ -69,7 +69,7 @@ const Main: React.FC = ({ children }) => {
             <div className="footer-col footer-col-2">
               <ul className="social-media-list">
                 <li>
-                  <a href="https://github.com/elysianfinance/EIPs">
+                  <a href="https://github.com/elysianfinance/EIP">
                     <GithubIcon className="svg-icon" />
                     <span className="username">ElysianFinance/EIPs</span>
                   </a>
