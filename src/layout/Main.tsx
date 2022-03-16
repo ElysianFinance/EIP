@@ -69,15 +69,15 @@ const Main: React.FC = ({ children }) => {
             <div className="footer-col footer-col-2">
               <ul className="social-media-list">
                 <li>
-                  <a href="https://github.com/elysianDAO/EIPs">
+                  <a href="https://github.com/elysianfinance/EIPs">
                     <GithubIcon className="svg-icon" />
-                    <span className="username">elysianDAO/EIPs</span>
+                    <span className="username">ElysianFinance/EIPs</span>
                   </a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/elysianDAO">
+                  <a href="https://twitter.com/elysian_finance">
                     <TwitterIcon className="svg-icon" />
-                    <span className="username">elysianDAO</span>
+                    <span className="username">elysian_finance</span>
                   </a>
                 </li>
               </ul>
